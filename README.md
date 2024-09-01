@@ -74,11 +74,11 @@ Finally, a comparison of performance metrics (accuracy, precision, recall, F1 sc
 
 In conclusion, applying the KNN model to this new dataset tests its adaptability and generalization capability. It allows for a more comprehensive evaluation of the model's performance beyond the original dataset, ensuring that the model is reliable for broader applications.
 
-![Alt text](figures/q1_res1.jpg)
+![Alt text](q1_res1.jpg)
 
-![Alt text](figures/q1_res2.jpg)
-![Alt text](figures/res.jpg)
-![Alt text](figures/fig.jpg)
+![Alt text](q1_res2.jpg)
+![Alt text](res.jpg)
+![Alt text](fig.jpg)
 Q2 )
 1. Linear Regression: Linear regression is a supervised learning algorithm used to model the relationship between a dependent variable (Y) and one or more independent variables (X). The goal is to find the best-fitting line that minimizes the error between the predicted and actual values. The general form of the linear regression equation is: Y=β0+β1X1+β2X2+⋯+βpXp+ϵY=β0​+β1​X1​+β2​X2​+⋯+βp​Xp​+ϵ Where:
 
@@ -148,21 +148,21 @@ Summary:
     Visualization helps in understanding model performance and the effect of hyperparameters like kk (degree of polynomial) and λλ (regularization strength).
 
 Implementing these concepts from scratch deepens your understanding of how these algorithms work and the impact of different parameters on model performance
-![Alt text](figures/lin_reg2.jpg)
-![Alt text](figures/lin_reg1.jpg)
+![Alt text](lin_reg2.jpg)
+![Alt text](lin_reg1.jpg)
 
-![Alt text](figures/lr3_2.jpg)
-![Alt text](figures/lr3_3.jpg)
-![Alt text](figures/lr3_4.jpg)
-![Alt text](figures/lr3_5.jpg)
-![Alt text](figures/lin_reg2.jpg)
-![Alt text](figures/lin_reg1.jpg)
-![Alt text](figures/lr3_1.jpg)
-![Alt text](figures/lr3_2.jpg)
-![Alt text](figures/lr3_3.jpg)
-![Alt text](figures/lr3_4.jpg)
-![Alt text](figures/re_1.png)
-![Alt text](figures/re_10.png)
-![Alt text](figures/re_12.png)
-![Alt text](figures/re_15.png)
+![Alt text](lr3_2.jpg)
+![Alt text](lr3_3.jpg)
+![Alt text](lr3_4.jpg)
+![Alt text](lr3_5.jpg)
+![Alt text](lin_reg2.jpg)
+![Alt text](lin_reg1.jpg)
+![Alt text](lr3_1.jpg)
+![Alt text](lr3_2.jpg)
+![Alt text](lr3_3.jpg)
+![Alt text](lr3_4.jpg)
+![Alt text](re_1.png)
+![Alt text](re_10.png)
+![Alt text](re_12.png)
+![Alt text](re_15.png)
 
